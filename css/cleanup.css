@@ -1,5 +1,9 @@
 /* write your override styles here */
 
 div { 
-    color:black;
+    display: none;
+}
+
+#tag {
+  display: none;
 }
